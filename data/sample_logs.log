@@ -1,0 +1,6 @@
+2025-12-01T12:00:01Z | service=checkout | level=ERROR | type=PAYMENT_GATEWAY_TIMEOUT | msg=Payment gateway timed out
+2025-12-01T12:00:02Z | service=checkout | level=ERROR | type=DATABASE_CONNECTION_ERROR | msg=Failed to connect to DB
+2025-12-01T12:05:01Z | service=ticketing | level=ERROR | type=TICKET_GENERATION_FAILED | msg=Ticket service unavailable
+2025-12-01T12:10:05Z | service=notifications | level=ERROR | type=EMAIL_SEND_FAILURE | msg=SMTP server not responding
+2025-12-01T13:00:00Z | service=checkout | level=ERROR | type=PAYMENT_GATEWAY_TIMEOUT | msg=Payment gateway timed out
+2025-12-01T14:00:00Z | service=notifications | level=ERROR | type=EMAIL_SEND_FAILURE | msg=SMTP server not responding
